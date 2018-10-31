@@ -1,0 +1,2 @@
+int (*p3)[10] == Um ponteiro que aponta pra um array de 10 inteiro
+int p4[10] == Um array de ponteiros
